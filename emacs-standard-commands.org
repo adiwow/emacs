@@ -1,0 +1,99 @@
+#+title: Emacs Standard Commands I am using often
+#+language: en
+#+startup: showall
+
+* Files
+
+=C-c=
+  - Compile
+
+=C-x e=
+  - evaluate
+   
+=C-x s=
+  - save
+    
+=C-x + C-v=
+  -  Visit a new file EMACS will prompt for the file name.
+    
+ =C-x + C-f=
+  - Open File
+    
+ =C-x + C-c=
+  - save and stop emacs
+    
+*  Emacs Screen
+
+=C-o=
+  -  view other window
+   
+=C-x 3=
+  - split vertically
+   
+=C-x 2=
+  - split horizontally
+    
+=C-x 0=
+  - kill another window
+    
+*  Text Navigation
+
+ =C-/=
+  - undo
+  
+ =M-w=
+  - copy
+   
+ =C-y=
+  - paste
+   
+ =C-@= 
+  - set-mark command
+  
+ =C-n=
+  - down/next line
+   
+ =C-p=
+  - up/previous line
+   
+ =C-b=
+  - backward
+  
+ =C-f=
+  - forward
+   
+ =C-v=
+  - Move forward down the text by a screenful.
+     
+ =M-v=
+  - Move backwards up the text by a screenful.
+    
+ =C-l=
+  - Center the display around the cursor position
+  
+ =M-<=
+  - Go to the beginning of the file.
+   
+ =M->=
+  -  Go to the end of the file.
+    
+* Delete Commands    
+ =C-d=
+  - Delete a character.
+   
+ =M-d=
+  - Delete a word (saved: see C-y).
+
+* Search/Switch/Execute commands
+ =C-S=
+  -  Search Text
+
+ =C-x b=
+  - switch to buffer
+    
+ =Alt-x=
+  - Execute extended commands
+   
+
+
+
